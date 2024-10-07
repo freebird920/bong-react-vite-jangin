@@ -1,10 +1,30 @@
 # Bong React Vite Jangin
 
 - [Bong React Vite Jangin](#bong-react-vite-jangin)
+  - [들어가기](#들어가기)
+    - [JavaScript](#javascript)
+    - [React](#react)
+    - [Vite](#vite)
+    - [TypeScript](#typescript)
   - [vite로 시작하기](#vite로-시작하기)
   - [React 시작하기](#react-시작하기)
   - [TypeScript와 함께하는 React](#typescript와-함께하는-react)
   - [학생들을 위한 예제 프로젝트](#학생들을-위한-예제-프로젝트)
+
+## 들어가기
+> React, Vite, TypeScript에 대해 설명하겠습니다. 이 세 가지 기술을 함께 사용하면 웹 개발이 매우 효율적이고 간편해집니다. 아래에 각 기술에 대한 간단한 소개를 추가합니다.
+
+### JavaScript
+    JavaScript는 웹 페이지에서 동적으로 동작하는 요소들을 만들기 위한 프로그래밍 언어입니다. 거의 모든 웹사이트에서 사용되고 있으며, 웹 페이지에 애니메이션이나 상호작용 기능을 추가할 수 있습니다.
+
+### React
+    React는 Meta(예전의 페이스북)에서 개발한 사용자 인터페이스(UI) 라이브러리입니다. 컴포넌트(Component) 기반으로 구조화되어 있어 코드 재사용이 쉽고, 복잡한 사용자 인터페이스를 효율적으로 관리할 수 있습니다. 또한 **가상 DOM(Virtual DOM)**을 사용하여 빠르고 효율적인 화면 업데이트가 가능합니다.
+
+### Vite
+    Vite는 빠르고 간편한 프론트엔드 빌드 도구입니다. 개발 서버를 빠르게 시작하고, 코드 변경 사항을 실시간으로 반영하는 핫 모듈 교체(HMR) 기능을 제공합니다. Vite는 기존 번들러에 비해 훨씬 빠르며, 개발 초기 설정과 로딩 시간을 줄이는 데 매우 유리합니다.
+
+### TypeScript
+    TypeScript는 Microsoft에서 만든 JavaScript의 상위 집합 언어로, JavaScript에 정적 타입을 추가한 것이 특징입니다. TypeScript를 사용하면 변수나 함수의 타입을 미리 정해줄 수 있어 코드의 안정성과 가독성을 높이고, 오류를 사전에 방지할 수 있습니다.
 
 ## vite로 시작하기
 
